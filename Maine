@@ -1,0 +1,8 @@
+$ export GITHUB_USERNAME = OzoNeTT #
+Присваиваем переменной GITHUB_USERNAME свое имя на GitHub
+$ export GITHUB_EMAIL = gpoff12@mail.ru #
+Присваиваем переменной GITHUB_EMAIL свой email
+$ export GITHUB_TOKEN = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx #
+Присваиваем переменной GIST_TOKEN свой токен
+$ alias edit = subl3 #
+Биндим команду edit на subl3
